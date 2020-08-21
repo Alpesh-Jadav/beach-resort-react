@@ -1,3 +1,20 @@
+This project has many lerning content for bigginers in react web development . what you lern in it:
+
+1]  react components
+
+2] react Routers
+
+3] react Context api
+
+4] components management 
+
+5] multiple pages
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

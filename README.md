@@ -10,6 +10,8 @@ This project has many lerning content for bigginers in react web development . w
 
 5] multiple pages
 
+6] mobile friendly design
+
 
 
 
